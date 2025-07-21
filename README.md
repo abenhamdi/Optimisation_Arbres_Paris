@@ -79,7 +79,6 @@ Les jeux de données utilisés proviennent :
 
 * de [Data.gouv.fr](https://www.data.gouv.fr)
 * de [l’Open Data de la Ville de Paris](https://opendata.paris.fr)
-* d’éventuelles bases INSEE (densité population, logement…)
 
 ---
 
